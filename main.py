@@ -1,4 +1,3 @@
-from replit import clear
 from art import logo
 print(logo)
 
@@ -26,7 +25,3 @@ while not bidding_finished:
     find_highest_bidder(bids)
   elif should_continue == "da":
     clear()
-  
-
-#functia clear() functioneaza pe replit. in ziua 15 o sa incepem sa lucram pe un IDE 
-
